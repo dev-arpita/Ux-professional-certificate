@@ -31,7 +31,6 @@ UX design is not about solving ​problems we assume users want solved.
 (Read More)[https://docs.google.com/document/d/1f7byovN7VuzA2pkRoff99B6jv83KK7dPD3ale3JTIyE/edit?tab=t.x5xlf0ox86ec]
 
 #### Research goals and questions
-
 Establish clear and focused research goals to guide interview questions and design decisions.
 Use empathetic questions to understand users' needs and problems effectively.
 Participant Characteristics
@@ -116,6 +115,7 @@ A value proposition is the reason why a consumer should use a product or a servi
  The importance of psychology in UX design, emphasizing how understanding human factors can enhance user experiences.
 (Read More...)[https://docs.google.com/document/d/1f7byovN7VuzA2pkRoff99B6jv83KK7dPD3ale3JTIyE/edit?tab=t.veihw18vp07a]
 
+###  psychology principles influence design:
 - Human Associations: The color red is often associated with dominance and aggression
 - Von Restorff Effect: unique items among similar ones are more likely to be remembered
 - Key Effects on User Memory:
@@ -124,3 +124,11 @@ A value proposition is the reason why a consumer should use a product or a servi
 - Ethical considerations:
     UX designers should use psychological principles ethically to empower users 
 (Read More....)[https://docs.google.com/document/d/1f7byovN7VuzA2pkRoff99B6jv83KK7dPD3ale3JTIyE/edit?tab=t.sh5w42bn24dk]
+
+### Understand design ideation
+- First, is the idea feasible? Is it technically possible to build? 
+- Next, is the idea desirable? Does it solve the user problem you're focusing on? 
+- Lastly, is your idea viable? Is it financially beneficial for the busines 
+(Read More..)[https://docs.google.com/document/d/1f7byovN7VuzA2pkRoff99B6jv83KK7dPD3ale3JTIyE/edit?tab=t.r1pln29736em]
+
+###
