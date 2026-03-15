@@ -5,28 +5,28 @@ Completed the Google UX Design Certificate - a rigorous, hands-on program that c
 This program is a professional credential designed by Google to provide job-ready skills in User Experience (UX) design. It focuses on the "User-First" philosophy, teaching you how to complete the end-to-end design process—from initial research to high-fidelity interactive prototypes. You’ll complete three full projects to build a professional portfolio.
 
 ### Course- 1: Foundations of User Experience (UX) Design
-- [Introduction](/courses/course-1/README.md)
+- [Introduction](/courses/course-1/readme.md)
 
 ### Course- 2 : Start the UX Design Process: Empathize, Define, and Ideate
-- [Introduction](/courses/course-2/README.md)
+- [Introduction](/courses/course-2/readme.md)
 
 ### Course- 3 : Build Wireframes and Low-Fidelity Prototypes
-- [Introduction](/courses/course-3/README.md)
+- [Introduction](/courses/course-3/readme.md)
 
 ### Course- 4 : Conduct UX Research and Test Early Concepts
-- [Introduction](/courses/course-4/README.md)
+- [Introduction](/courses/course-4/readme.md)
 
 ### Course- 5 : Create High-Fidelity Designs and Prototypes in Figma
-- [Introduction](/courses/course-5/README.md)
+- [Introduction](/courses/course-5/readme.md)
 
 ### Course- 6 : Build Dynamic User Interfaces (UI) for Websites
-- [Introduction](/courses/course-6/README.md)
+- [Introduction](/courses/course-6/readme.md)
 
 ### Course- 7 :  Design a User Experience for Social Good & Prepare for Jobs
-- [Introduction](/courses/course-7/README.md)
+- [Introduction](/courses/course-7/readme.md)
 
 ### Course- 8 : Accelerate Your Job Search with AI
-- [Introduction](/courses/course-8/README.md)
+- [Introduction](/courses/course-8/readme.md)
 
 ## Skills
 - Empathizing with users by creating empathy maps, personas, user stories, and user journey maps
