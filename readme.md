@@ -1,4 +1,4 @@
-# My UI/UX learning journey with notes
+# My Google UX Design Certificate learning journey with notes
 Completed the Google UX Design Certificate -- a rigorous, hands-on program that covers the design process from end-to-end.
 
 ## Certificate Introduction
