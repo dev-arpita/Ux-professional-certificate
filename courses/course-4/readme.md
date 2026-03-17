@@ -1,4 +1,6 @@
-## Conduct UX Research and Test Early Concepts (Usability study)
+# Conduct UX Research and Test Early Concepts (Usability study) 
+
+## Research planning study:
 
 ### Research is Part of the Test Phase
 Research is a vital part of the UX design process—in every phase, from start to finish. 
@@ -40,3 +42,39 @@ A script, also referred to as a discussion guide, is a list of tasks and follow-
 #### Ex: UX research plans
 
 (Read more...)[https://docs.google.com/document/d/1baLnvnFxAwKIeGuYsh4hamQSHCV8-6XraRfLYaJAdUA/edit?tab=t.qwczbza60oh1#heading=h.b6r5u0y6z49z]
+
+### Make privacy a part of UX practices
+The importance of user privacy and data protection in research, because it’s about respecting individuals and their personal information. 
+(Best Practices)[https://docs.google.com/document/d/1baLnvnFxAwKIeGuYsh4hamQSHCV8-6XraRfLYaJAdUA/edit?tab=t.qmwfc1azhsnx]
+(Understanding User Privacy)[https://docs.google.com/document/d/1baLnvnFxAwKIeGuYsh4hamQSHCV8-6XraRfLYaJAdUA/edit?tab=t.pm4ckyxbhj79]
+
+## Conducting research:
+
+### Introduction to usability studies
+All about the first step in a UX research study which is planning the study. It's time to move
+to the **second step** which is really exciting, conducting the research. A **usability study** is a **research method** that assesses how easy it is for participants to complete core tasks in a design.
+
+(Read more..)[https://docs.google.com/document/d/1baLnvnFxAwKIeGuYsh4hamQSHCV8-6XraRfLYaJAdUA/edit?tab=t.mgc0zjyk94vy]
+(Reading)[https://docs.google.com/document/d/1baLnvnFxAwKIeGuYsh4hamQSHCV8-6XraRfLYaJAdUA/edit?tab=t.cydgoegi9j94#heading=h.bvyvqg5i94dj]
+(Pros and Cons of usability studies)[https://docs.google.com/document/d/1baLnvnFxAwKIeGuYsh4hamQSHCV8-6XraRfLYaJAdUA/edit?tab=t.5zfnlvm9208t]
+
+### Introduction to a mock unmoderated usability study
+(Summary)[https://docs.google.com/document/d/1baLnvnFxAwKIeGuYsh4hamQSHCV8-6XraRfLYaJAdUA/edit?tab=t.1pvis0tnq0gw#heading=h.2wxwe2fq8yh3]
+
+### Explore usability study best practices: Before the study begins
+(Summary)[https://docs.google.com/document/d/1baLnvnFxAwKIeGuYsh4hamQSHCV8-6XraRfLYaJAdUA/edit?tab=t.mahznos3ym4x]
+
+### Identify biases when interviewing usability study participants
+A bias is favoring or having prejudice based on limited information. It's important to call out that all humans are susceptible to bias.
+(Summary)[https://docs.google.com/document/d/1baLnvnFxAwKIeGuYsh4hamQSHCV8-6XraRfLYaJAdUA/edit?tab=t.tkqthut9fcub]
+ ### Reduce bias in interviews
+Being fully unbiased when conducting and observing interviews is impossible. Everyone has their own set of biases that they bring to every interaction. Acknowledging own personal biases so that we can move beyond them is key when conducting research.
+(Reading)[https://docs.google.com/document/d/1baLnvnFxAwKIeGuYsh4hamQSHCV8-6XraRfLYaJAdUA/edit?tab=t.gjfaomdekqav]
+
+### Introduction to note-taking methods during usability studies:
+ It's time to think about another important part of usability study: notetaking.
+    (Intro)[https://docs.google.com/document/d/1baLnvnFxAwKIeGuYsh4hamQSHCV8-6XraRfLYaJAdUA/edit?tab=t.9u583qcxgfn2]
+(Use a spreadsheet to take notes)[https://docs.google.com/document/d/1baLnvnFxAwKIeGuYsh4hamQSHCV8-6XraRfLYaJAdUA/edit?tab=t.akv0l07uuwkg]
+
+#### Case study Review: Take notes during a mock usability study for the Gmail labels feature
+(Read more...)[https://docs.google.com/document/d/1baLnvnFxAwKIeGuYsh4hamQSHCV8-6XraRfLYaJAdUA/edit?tab=t.6nb6v15q61ge#heading=h.qlcsr9yg3h36]
