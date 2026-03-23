@@ -78,3 +78,15 @@ Being fully unbiased when conducting and observing interviews is impossible. Eve
 
 #### Case study Review: Take notes during a mock usability study for the Gmail labels feature
 (Read more...)[https://docs.google.com/document/d/1baLnvnFxAwKIeGuYsh4hamQSHCV8-6XraRfLYaJAdUA/edit?tab=t.6nb6v15q61ge#heading=h.qlcsr9yg3h36]
+
+### From observations to insights
+(Read More...)[https://docs.google.com/document/d/1baLnvnFxAwKIeGuYsh4hamQSHCV8-6XraRfLYaJAdUA/edit?tab=t.7fgb7fkc2e7s#heading=h.k8c3fetmf5md]
+
+### Gather and organize data
+(Read more...)[http://docs.google.com/document/d/1baLnvnFxAwKIeGuYsh4hamQSHCV8-6XraRfLYaJAdUA/edit?tab=t.j5vh0h28ebot]
+
+(Gmail lable affinity diagram...)[https://docs.google.com/document/d/1baLnvnFxAwKIeGuYsh4hamQSHCV8-6XraRfLYaJAdUA/edit?tab=t.w7pltybnm8ma#heading=h.wado1cor3qk]
+
+### Patterns and themes in research data
+Now it's time to find themes in that data. 
+(Read more..)[https://docs.google.com/document/d/1baLnvnFxAwKIeGuYsh4hamQSHCV8-6XraRfLYaJAdUA/edit?tab=t.86mlvbrwc11n]
