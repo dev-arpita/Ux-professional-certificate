@@ -108,3 +108,26 @@ Now it's time to find themes in that data.
 
 ### Tips for giving an effective presentation
 (Read more...)[https://docs.google.com/document/d/1baLnvnFxAwKIeGuYsh4hamQSHCV8-6XraRfLYaJAdUA/edit?tab=t.wjauf3fcgjnw#heading=h.qbfhbspdv77o]
+
+### Create a strong presentation
+(Read more...)[https://docs.google.com/document/d/1baLnvnFxAwKIeGuYsh4hamQSHCV8-6XraRfLYaJAdUA/edit?tab=t.yibdyour09k0#heading=h.jqcasuec4y60]
+
+### Overcome stage fright
+Have you ever felt nervous before speaking in front of a group, or gone blank during a presentation? Stage fright is very common — even for people who perform for a living!
+(Read more...)[https://docs.google.com/document/d/1baLnvnFxAwKIeGuYsh4hamQSHCV8-6XraRfLYaJAdUA/edit?tab=t.8o81jch2hyuh]
+
+### Tips for giving an effective presentation
+(Read more...)[https://docs.google.com/document/d/1baLnvnFxAwKIeGuYsh4hamQSHCV8-6XraRfLYaJAdUA/edit?tab=t.wjauf3fcgjnw#heading=h.qbfhbspdv77o]
+
+### Tips for giving an effective presentation
+(Read more...)[https://docs.google.com/document/d/1baLnvnFxAwKIeGuYsh4hamQSHCV8-6XraRfLYaJAdUA/edit?tab=t.yb1dvliqg3kj#heading=h.v5y9ceu0noi5]
+
+### Modify low-fidelity designs based on insights
+(Read More..)[https://docs.google.com/document/d/1baLnvnFxAwKIeGuYsh4hamQSHCV8-6XraRfLYaJAdUA/edit?tab=t.7famxr75ualp#heading=h.swn00wdunhri]
+
+### How to make research-based design changes
+(Read more..)[https://docs.google.com/document/d/1baLnvnFxAwKIeGuYsh4hamQSHCV8-6XraRfLYaJAdUA/edit?tab=t.rw4hspf2wfwe#heading=h.gga8o5ni2ciz]
+
+
+## Course 4 portfolio project
+
