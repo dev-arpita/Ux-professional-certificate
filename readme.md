@@ -37,3 +37,6 @@ This program is a professional credential designed by Google to provide job-read
 - Designing in Figma and Adobe XD 
 - Conducting interviews and usability studies 
 - Considering accessibility at every point in the design process 
+
+### Support related queries, peer help section
+(Click here ->)[https://www.coursera.support/s/topic/0TO8W000001ZsJqWAK/ux-design]
